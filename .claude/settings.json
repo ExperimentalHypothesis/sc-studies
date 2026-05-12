@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(x86_64-w64-mingw32-objdump *)",
+      "Bash(x86_64-w64-mingw32-nm *)",
+      "Bash(x86_64-w64-mingw32-strings *)"
+    ]
+  }
+}

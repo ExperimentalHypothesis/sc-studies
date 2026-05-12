@@ -1,0 +1,15 @@
+# Build artifacts
+/build/
+*.dll
+*.dll.a
+*.obj
+*.pdb
+
+# CMake cache files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# IDE settings (optional)
+.vscode/
